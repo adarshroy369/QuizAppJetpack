@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My Quiz App</string>
+    <string name="quiz_name">Myquizscreen</string>
+    <string name="mainScreen">Mainscreen</string>
+
+    <string name="dialog_button_ok">OK</string>
+    <string name="dialog_message">TEST</string>
+    <string name="dialog_title">TITLE</string>
+    <string name="image_content_description">logo\n</string>
+</resources>
